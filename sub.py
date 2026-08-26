@@ -1,1 +1,1 @@
-print("Subtraction")
+print("Subtraction", 10-5)

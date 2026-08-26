@@ -1,1 +1,0 @@
-print("Subtraction", 10-5)
